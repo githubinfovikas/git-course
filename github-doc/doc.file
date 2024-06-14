@@ -1,0 +1,14 @@
+# first line --------- git status
+agar fatel error aa gya toh secound comand
+
+# 2nd comand --------- git init
+
+#3rd comand  -------- git add .
+
+# 4th comand ----------  git commit -m 'comment'
+
+# 5th comand ----------- git remote add origin <link>
+
+# 6h comand ----------- git branch -M main
+
+# 7th comand -------- git push
